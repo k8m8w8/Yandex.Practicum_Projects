@@ -4,10 +4,11 @@
 Создание интерактивных дашбордов по датасетам с информацией о выступлениях, конференциях, и авторах выступлений. 
 
 Превью проекта:
-![Анализ TED-Talks (1)](https://github.com/k8m8w8/TED-Talks/assets/166219178/545818fa-aa03-4132-978c-743e78bcb47a)
+![Анализ TED-Talks (1)](https://github.com/k8m8w8/Yandex.Practicum_Projects/assets/166219178/5448a796-9a01-49cd-b8b7-4b8fb2f1f9fc)
 
 
-![Анализ TED-Talks](https://github.com/k8m8w8/TED-Talks/assets/166219178/546c0b23-8445-4442-983e-88010ed8e3e2)
+![Анализ TED-Talks](https://github.com/k8m8w8/Yandex.Practicum_Projects/assets/166219178/99f484c8-d59d-4816-8e92-5ad39dc2dc25)
+
 
 
 
